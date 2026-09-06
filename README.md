@@ -118,13 +118,13 @@ Through this project, I practiced and improved my understanding of:
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/SENAYIT/react_js_vite_Project_5_ProjectListManagement.git
 ```
 
 ### 2. Navigate to the project
 
 ```bash
-cd <project-folder>
+cd react_js_vite_Project_5_ProjectListManagement.git
 ```
 
 ### 3. Install dependencies
