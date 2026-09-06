@@ -124,7 +124,7 @@ git clone https://github.com/SENAYIT/react_js_vite_Project_5_ProjectListManageme
 ### 2. Navigate to the project
 
 ```bash
-cd react_js_vite_Project_5_ProjectListManagement.git
+cd react_js_vite_Project_5_ProjectListManagement
 ```
 
 ### 3. Install dependencies
